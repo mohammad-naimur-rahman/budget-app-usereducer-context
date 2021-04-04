@@ -1,24 +1,21 @@
-import logo from './logo.svg';
+import { Container } from 'react-bootstrap';
 import './App.css';
+import Header from './components/Header';
+import Inputs from './components/Inputs';
+import ShowBalance from './components/ShowBalance';
+import Tables from './components/Tables';
+import GlobalProvider from './context/ContextProvider';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container fluid>
+      <GlobalProvider>
+        <Header />
+        <ShowBalance />
+        <Inputs />
+        <Tables />
+      </GlobalProvider>
+    </Container>
   );
 }
 
