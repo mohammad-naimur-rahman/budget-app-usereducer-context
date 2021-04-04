@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/budget-app-usereducer-context/static/css/main.9b1f4933.chunk.css",
+    "main.js": "/budget-app-usereducer-context/static/js/main.51c1f2cd.chunk.js",
+    "main.js.map": "/budget-app-usereducer-context/static/js/main.51c1f2cd.chunk.js.map",
+    "runtime-main.js": "/budget-app-usereducer-context/static/js/runtime-main.eb0852b0.js",
+    "runtime-main.js.map": "/budget-app-usereducer-context/static/js/runtime-main.eb0852b0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/budget-app-usereducer-context/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.24ab5f8b.chunk.js": "/budget-app-usereducer-context/static/js/2.24ab5f8b.chunk.js",
+    "static/js/2.24ab5f8b.chunk.js.map": "/budget-app-usereducer-context/static/js/2.24ab5f8b.chunk.js.map",
+    "static/js/3.8814a647.chunk.js": "/budget-app-usereducer-context/static/js/3.8814a647.chunk.js",
+    "static/js/3.8814a647.chunk.js.map": "/budget-app-usereducer-context/static/js/3.8814a647.chunk.js.map",
+    "index.html": "/budget-app-usereducer-context/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/budget-app-usereducer-context/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9b1f4933.chunk.css.map": "/budget-app-usereducer-context/static/css/main.9b1f4933.chunk.css.map",
+    "static/js/2.24ab5f8b.chunk.js.LICENSE.txt": "/budget-app-usereducer-context/static/js/2.24ab5f8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb0852b0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.24ab5f8b.chunk.js",
+    "static/css/main.9b1f4933.chunk.css",
+    "static/js/main.51c1f2cd.chunk.js"
+  ]
+}
